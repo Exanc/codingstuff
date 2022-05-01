@@ -1,0 +1,13 @@
+# My codegolf solutions
+# Excluded because they gave me a realy good rank and I don't want people to cheat
+codingame/codegolf/
+
+# Used for scraping codingame solutions
+# See https://github.com/darthwalsh/DownloadCodinGame
+DownloadCodinGame/
+
+# Python execution environement
+env/
+
+# VSCode local settings
+.vscode/
